@@ -1,0 +1,10 @@
+.env
+.env.local
+node_modules
+.next
+__pycache__
+.venv
+.pytest_cache
+
+# Personal Claude Code permissions
+.claude/settings.local.json
